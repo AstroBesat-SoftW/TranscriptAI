@@ -1,4 +1,4 @@
-şunu güzel readme.md hale getir: # 🎓 TranscriptAI - OCR ve GPT ile Akıllı Transkript Düzenleyici
+# 🎓 TranscriptAI - OCR ve GPT ile Akıllı Transkript Düzenleyici
 
 TranscriptAI, üniversite transkriptlerinizi ya da herhangi bir akademik PDF belgesini Python kullanarak okuyup, OpenAI GPT ile düzenli ve okunabilir metne çeviren hafif, akıllı ve etkili bir araçtır. Transkriptler artık sadece bir belge değil, anlamlı ve analiz edilebilir bir yapıya kavuşuyor.
 
