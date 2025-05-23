@@ -13,13 +13,18 @@ TranscriptAI, üniversite transkriptlerinizi ya da herhangi bir akademik PDF bel
 
 ---
 
-## 🚀 Kurulum
+## 🚀 Yüklemen Gereken Kütüphaneler
+
+
 
 ```bash
-git clone https://github.com/kullaniciadi/transcriptai.git
-cd transcriptai
-pip install PyMuPDF requests
-OpenAI GPT’yi kullanabilmek için OpenAI API Key oluşturun ve main.py dosyasında şu satırı güncelleyin:
+import fitz  # yani --> PyMuPDF "pip install PyMuPDF" <--
+import requests
+import json
+import os
+
+
+OpenAI GPT’yi kullanabilmek için OpenAI API Key oluşturun ve .py dosyasında şu satırı güncelleyin:
 
 
 API_KEY = "sk-..."  # ← kendi API anahtarınızı buraya yapıştırın
@@ -28,22 +33,6 @@ API_KEY = "sk-..."  # ← kendi API anahtarınızı buraya yapıştırın
 transkript.pdf adlı dosyanızı proje dizinine koyun. Terminalden aşağıdaki komutu çalıştırın:
 
 
-python main.py
-Çıktı, proje dizininde sonuc.txt olarak otomatik kaydedilecektir.
-
-📂 Proje Yapısı
-
-transcriptai/
-├── main.py            # Ana işlem dosyası
-├── sonuc.txt          # Çıktı dosyası
-├── transkript.pdf     # Girdi dosyası (kullanıcıdan)
-└── README.md          # Bu belge
-📦 Kullanılan Teknolojiler
-PyMuPDF (fitz) – PDF dosyalarından metin çıkarımı için
-
-requests – API iletişimi için
-
-OpenAI GPT-3.5 Turbo – Metni doğal ve düzenli biçimde yapılandırmak için
 
 🤝 Katkı Sağla
 Bu proje açık kaynaklıdır ve katkıya açıktır. Yeni özellik önerileri, hata bildirimleri ya da doğrudan pull request’ler gönderebilirsiniz.
@@ -52,6 +41,6 @@ Bu proje açık kaynaklıdır ve katkıya açıktır. Yeni özellik önerileri, 
 Çünkü bir belge sadece yazıdan ibaret olmamalı. Bilgi düzenli olmalı. Anlam ön planda olmalı.
 TranscriptAI, bunu sizin için yapar.
 
-📫 Geliştirici: [Senin GitHub profilin]
+📫 Geliştirici: [Besat Çıngar]
 📅 Sürüm: 1.0
 🔗 Lisans: MIT
