@@ -9,6 +9,8 @@
 
 TranscriptAI is a lightweight, intelligent, and efficient tool that reads your university transcripts or any academic PDF using Python and converts them into clean, readable text with OpenAI GPT. Transcripts are no longer just documents – they become meaningful and analyzable data.
 
+![image](https://github.com/user-attachments/assets/ab0a7487-1bad-469d-af10-f4c937eb03ee)
+
 ---
 
 ## ✨ Features
