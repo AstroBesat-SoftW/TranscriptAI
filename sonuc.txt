@@ -1,0 +1,81 @@
+# Öğrenci Bilgileri
+- TC Kimlik No: 62152905
+- Öğrenci No: 302
+- Adı: /
+- Soyadı: /
+- Tarih: 24.12.2021
+
+# Öğrenim Bilgileri
+- Fakülte: Mühendislik Fakültesi
+- Üniversite: Çanakkale Onsekiz Mart Üniversitesi
+- Kayıt Tarihi / Yılı / Dönemi: 29.08.2020 / 2020 / Güz
+- Eğitim Dili: TÜRKÇE
+- Eğitim Düzeyi: LİSANS
+- Kayıt Şekli: ÖSYS
+- Yıl: Güz
+- Dönem: 2021
+
+# Program Bilgileri
+- Akademik Birim: MÜHENDİSLİK FAKÜLTESİ
+- Bölüm: BİLGİSAYAR MÜHENDİSLİĞİ
+
+# Not Durum Belgesi
+## 1. Yarıyıl
+| Ders Kodu | Ders Adı                                  | Kredi | AKTS | Harf Notu | Açıklama |
+|-----------|-------------------------------------------|-------|------|-----------|----------|
+| ATA-1001  | Atatürk İlkeleri ve İnkılap Tarihi I      | 2     | 1    | BB        |          |
+| BLM-1001  | Genel Fizik I                             | 3     | 6    | CB        |          |
+| BLM-1003  | Matematik I                              | 3     | 6    | CB        |          |
+| BLM-1005  | Oryantasyon                               | 1     | 1    | BB        |          |
+| BLM-1007  | İş Sağlığı Ve Güvenliği I                 | 2     | 2    | CC        |          |
+| BLM-1009  | Algoritma ve Programlama                  | 3     | 5    | BB        |          |
+| BLM-1011  | Bilgisayar Mühendisliğine Giriş           | 3     | 5    | BA        |          |
+| TDİ-1001  | Türk Dili I                               | 2     | 1    | AA        |          |
+| YDİ-1001  | Yabancı Dil I (İngilizce)                | 2     | 2    | AA        |          |
+| SEC-1001  | YÖK Seçmeli Ders Grubu                    | 0     | 1    | AA        | Müzik I  |
+
+## 2. Yarıyıl
+| Ders Kodu | Ders Adı                                  | Kredi | AKTS | Harf Notu | Açıklama |
+|-----------|-------------------------------------------|-------|------|-----------|----------|
+| ATA-1002  | Atatürk İlkeleri ve İnkılap Tarihi II     | 2     | 1    | AA        |          |
+| BLM-1002  | Genel Fizik II                            | 3     | 6    | BA        |          |
+| BLM-1004  | Matematik II                             | 3     | 6    | CB        |          |
+| BLM-1006  | İş Sağlığı Ve Güvenliği II                | 2     | 2    | BA        |          |
+| BLM-1008  | Lineer Cebir                             | 3     | 5    | AA        |          |
+| BLM-1010  | Yapısal Programlama                      | 3     | 6    | AA        |          |
+| TDİ-1002  | Türk Dili II                             | 2     | 1    | AA        |          |
+| YDİ-1002  | İngilizce II                             | 2     | 2    | AA        |          |
+| SEC-1002  | YÖK Seçmeli Ders Grubu                    | 0     | 1    | AA        | Müzik II |
+
+# Genel Not Bilgileri
+- Tamamlanan Kredi | AKTS: 21 | 30
+- Genel  Ortlama: 2,95
+- Ağırlıklı Not Ortalama:
+  - Yarıyıl: 3,57
+  - Genel: 3,26
+- Toplam Alınan Kredi | AKTS: 41 | 60
+- Hesaplanan AKTS: 30
+
+# Diğer Bilgiler
+- Genel Not Ortalaması: 3,26
+- AKTS: Avrupa Kredi Transfer Sistemi
+- S.D.G: Seçmeli Ders Grubu
+- A.D: Alınmayan Ders
+- O.B.: Ortalama ile Başarılı
+- Notlar ve Katsayıları:
+  - AA (90-100) 4.00
+  - BA (85-89) 3.50
+  - BB (80-84) 3.00
+  - CB (70-79) 2.50
+  - CC (60-69) 2.00
+  - DC (55-59) 1.50
+  - DD (50-54) 1.00
+  - FD (40-49) 0.50
+  - FF (0-39) 0.00
+  - YE: Yeterli
+  - YS: Yetersiz
+  - DS: Devamsız
+- Yüzlük Sistemdeki Not Karşılığı: ÖRNEKTİR
+- To: 85,20
+
+İyi günler! Yardımcı olabileceğim başka bir konu var mı?
