@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, send_file
 import os
-import fitz  # PyMuPDF
+import fitz  # PyMuPDF yüklenmesi gereken
 import requests
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
