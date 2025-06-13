@@ -1,5 +1,5 @@
 
-<!-- Dil Seçici -->
+<!--  Dil Seçici  -->
 <p align="right">
   <a href="#-transcriptai---smart-transcript-editor-using-ocr--gpt">🇬🇧 English</a> |
   <a href="#-transcriptai---ocr-ve-gpt-ile-akıllı-transkript-düzenleyici">🇹🇷 Türkçe</a>
